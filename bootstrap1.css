@@ -161,7 +161,7 @@ text-decoration: none;
 	height :500px;
 	}
 .footer-background{
-	background-image: url("chair.jpg");
+	background-image: url("images/chair.jpg");
 	background-position: left;
 	background-repeat: no-repeat;
 }
@@ -177,7 +177,7 @@ text-decoration: none;
 	}
 	
 	.footer-background{
-	background-image: url("chair.jpg");
+	background-image: url("images/chair.jpg");
 	background-position: bottom;
 	background-repeat: no-repeat;
 	
